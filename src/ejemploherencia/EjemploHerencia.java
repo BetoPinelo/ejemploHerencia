@@ -1,6 +1,8 @@
 /**
  *
  * @author ISC Humberto Pinelo Rivera
+ * Book: Desarrollo de Sofware con NetBeans 7.1
+ * Pages: 46 - 50
  */
 package ejemploherencia;
 
